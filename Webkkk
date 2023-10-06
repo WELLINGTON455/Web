@@ -1,2 +1,24 @@
-html 
-
+<!DOCTYPE html >
+<html>
+  <head>
+  <title>quero emprego</title>
+  
+  <meta charset="utf-8">
+  
+  
+  </head>
+ 
+ <body>
+   <h1>sobre mim</h1>
+   <p>eu sou esforçado</p>
+   <hr>
+   <p> embusca de emprogo</p>
+   
+   
+ </body> 
+  
+  
+  
+  
+  
+</html>
